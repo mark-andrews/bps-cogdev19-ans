@@ -10,7 +10,7 @@ author: |
   <!-- | \faEnvelopeO\  ```mark.andrews@ntu.ac.uk``` -->
   <!-- | \faTwitter\ ```@xmjandrews``` -->
   <!-- | \faGithub\ ```https://github.com/lawsofthought/mathpsych2017```  -->
-date: "July 25, 2017"
+date: "September 4, 2019"
 fontsize: 10pt
 output:
  beamer_presentation:
